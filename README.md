@@ -8,10 +8,12 @@
 
 | Activity | Description | Run command |
 |---|---|---|
+| SET1 |  |  |
 | P1 | Student Grade Calculator | `python set1/p1/p1_grade_calculator.py` |
 | P2 | Custom student utilities module | `python set1/p2/p2_main.py` |
 | P3 | Student Record Manager | `python set1/p3/p3_record_manager.py` |
 | P4 | Safe Menu / Exception Handling | `python set1/p4/p4_exceptions.py` |
+| SET2 |  |  |
 | P5 | Student Information File System | `python set2/p5/p5_file_system.py` |
 | P6 | Recursion Toolkit | `python set2/p6/p6_recursion.py` |
 | P7 | Student Management with Classes | `python set2/p7/p7_classes.py` |
